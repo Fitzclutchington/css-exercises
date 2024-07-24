@@ -1,0 +1,18 @@
+.font {
+    font-size: 24px;
+}
+
+.odd {
+    background-color: #DA70D6;
+    font: Veranda, "DejaVu Sans", sans-serif;
+}
+
+.two {
+    color: blue;
+    font-size: 36px;
+}
+
+.four {
+    background-color: #DAF7A6;
+    font-weight: bold;
+}
